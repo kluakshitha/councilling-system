@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon"
+  },
+  "author": "Akshitha",
+  "license": "ISC",
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "nodemon": "^3.0.2"
+  }
+}
